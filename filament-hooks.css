@@ -1,0 +1,3885 @@
+/* Filament CSS Hooks */
+
+.fi-absolute-positioning-context {
+
+}
+
+.fi-ac {
+
+}
+
+.fi-ac-action {
+
+}
+
+.fi-ac-badge-action {
+
+}
+
+.fi-ac-badge-group {
+
+}
+
+.fi-ac-btn-action {
+
+}
+
+.fi-ac-btn-group {
+
+}
+
+.fi-ac-grouped-action {
+
+}
+
+.fi-ac-grouped-group {
+
+}
+
+.fi-ac-icon-btn-action {
+
+}
+
+.fi-ac-icon-btn-group {
+
+}
+
+.fi-ac-link-action {
+
+}
+
+.fi-ac-link-group {
+
+}
+
+.fi-ac-select-action {
+
+}
+
+.fi-account-widget {
+
+}
+
+.fi-account-widget-heading {
+
+}
+
+.fi-account-widget-logout-form {
+
+}
+
+.fi-account-widget-main {
+
+}
+
+.fi-account-widget-user-name {
+
+}
+
+.fi-active {
+
+}
+
+.fi-align- {
+
+}
+
+.fi-align-between {
+
+}
+
+.fi-align-center {
+
+}
+
+.fi-align-end {
+
+}
+
+.fi-align-justify {
+
+}
+
+.fi-align-left {
+
+}
+
+.fi-align-right {
+
+}
+
+.fi-align-start {
+
+}
+
+.fi-aside {
+
+}
+
+.fi-autosizable {
+
+}
+
+.fi-avatar {
+
+}
+
+.fi-badge {
+
+}
+
+.fi-badge-delete-btn {
+
+}
+
+.fi-badge-label {
+
+}
+
+.fi-badge-label-ctn {
+
+}
+
+.fi-bg-color- {
+
+}
+
+.fi-bg-color-100 {
+
+}
+
+.fi-bg-color-200 {
+
+}
+
+.fi-bg-color-300 {
+
+}
+
+.fi-bg-color-400 {
+
+}
+
+.fi-bg-color-50 {
+
+}
+
+.fi-bg-color-500 {
+
+}
+
+.fi-bg-color-600 {
+
+}
+
+.fi-bg-color-700 {
+
+}
+
+.fi-bg-color-800 {
+
+}
+
+.fi-bg-color-900 {
+
+}
+
+.fi-bg-color-950 {
+
+}
+
+.fi-body {
+
+}
+
+.fi-body-has-navigation {
+
+}
+
+.fi-body-has-sidebar-collapsible-on-desktop {
+
+}
+
+.fi-body-has-sidebar-fully-collapsible-on-desktop {
+
+}
+
+.fi-body-has-top-navigation {
+
+}
+
+.fi-body-has-topbar {
+
+}
+
+.fi-breadcrumbs {
+
+}
+
+.fi-breadcrumbs-item {
+
+}
+
+.fi-breadcrumbs-item-label {
+
+}
+
+.fi-breadcrumbs-item-separator {
+
+}
+
+.fi-breadcrumbs-list {
+
+}
+
+.fi-btn {
+
+}
+
+.fi-btn-badge-ctn {
+
+}
+
+.fi-btn-group {
+
+}
+
+.fi-bulleted {
+
+}
+
+.fi-callout {
+
+}
+
+.fi-callout-controls {
+
+}
+
+.fi-callout-description {
+
+}
+
+.fi-callout-footer {
+
+}
+
+.fi-callout-heading {
+
+}
+
+.fi-callout-icon {
+
+}
+
+.fi-callout-main {
+
+}
+
+.fi-callout-text {
+
+}
+
+.fi-checkbox-input {
+
+}
+
+.fi-circular {
+
+}
+
+.fi-clickable {
+
+}
+
+.fi-collapsed {
+
+}
+
+.fi-collapsible {
+
+}
+
+.fi-color {
+
+}
+
+.fi-color- {
+
+}
+
+.fi-color-danger {
+
+}
+
+.fi-color-gray {
+
+}
+
+.fi-color-info {
+
+}
+
+.fi-color-neutral {
+
+}
+
+.fi-color-primary {
+
+}
+
+.fi-color-success {
+
+}
+
+.fi-color-warning {
+
+}
+
+.fi-compact {
+
+}
+
+.fi-completed {
+
+}
+
+.fi-contained {
+
+}
+
+.fi-copyable {
+
+}
+
+.fi-dense {
+
+}
+
+.fi-disabled {
+
+}
+
+.fi-divided {
+
+}
+
+.fi-dropdown {
+
+}
+
+.fi-dropdown-header {
+
+}
+
+.fi-dropdown-list {
+
+}
+
+.fi-dropdown-list-item {
+
+}
+
+.fi-dropdown-list-item-badge-placeholder {
+
+}
+
+.fi-dropdown-list-item-image {
+
+}
+
+.fi-dropdown-list-item-label {
+
+}
+
+.fi-dropdown-panel {
+
+}
+
+.fi-dropdown-trigger {
+
+}
+
+.fi-empty {
+
+}
+
+.fi-empty-state {
+
+}
+
+.fi-empty-state-content {
+
+}
+
+.fi-empty-state-description {
+
+}
+
+.fi-empty-state-footer {
+
+}
+
+.fi-empty-state-heading {
+
+}
+
+.fi-empty-state-icon-bg {
+
+}
+
+.fi-empty-state-not-contained {
+
+}
+
+.fi-empty-state-text-ctn {
+
+}
+
+.fi-fi {
+
+}
+
+.fi-fieldset {
+
+}
+
+.fi-fieldset-label-hidden {
+
+}
+
+.fi-fieldset-label-required-mark {
+
+}
+
+.fi-fieldset-not-contained {
+
+}
+
+.fi-filament-info-widget {
+
+}
+
+.fi-filament-info-widget-links {
+
+}
+
+.fi-filament-info-widget-logo {
+
+}
+
+.fi-filament-info-widget-main {
+
+}
+
+.fi-filament-info-widget-version {
+
+}
+
+.fi-fixed-positioning-context {
+
+}
+
+.fi-fo-builder {
+
+}
+
+.fi-fo-builder-actions {
+
+}
+
+.fi-fo-builder-add-between-items {
+
+}
+
+.fi-fo-builder-add-between-items-ctn {
+
+}
+
+.fi-fo-builder-block-picker {
+
+}
+
+.fi-fo-builder-block-picker-ctn {
+
+}
+
+.fi-fo-builder-item {
+
+}
+
+.fi-fo-builder-item-content {
+
+}
+
+.fi-fo-builder-item-content-has-preview {
+
+}
+
+.fi-fo-builder-item-has-header {
+
+}
+
+.fi-fo-builder-item-header {
+
+}
+
+.fi-fo-builder-item-header-collapse-action {
+
+}
+
+.fi-fo-builder-item-header-collapsible-actions {
+
+}
+
+.fi-fo-builder-item-header-end-actions {
+
+}
+
+.fi-fo-builder-item-header-expand-action {
+
+}
+
+.fi-fo-builder-item-header-icon {
+
+}
+
+.fi-fo-builder-item-header-label {
+
+}
+
+.fi-fo-builder-item-header-start-actions {
+
+}
+
+.fi-fo-builder-item-preview {
+
+}
+
+.fi-fo-builder-item-preview-edit-overlay {
+
+}
+
+.fi-fo-builder-items {
+
+}
+
+.fi-fo-builder-label-between-items {
+
+}
+
+.fi-fo-builder-label-between-items-ctn {
+
+}
+
+.fi-fo-builder-label-between-items-divider-after {
+
+}
+
+.fi-fo-builder-label-between-items-divider-before {
+
+}
+
+.fi-fo-builder-not-contained {
+
+}
+
+.fi-fo-checkbox-list {
+
+}
+
+.fi-fo-checkbox-list-actions {
+
+}
+
+.fi-fo-checkbox-list-no-search-results-message {
+
+}
+
+.fi-fo-checkbox-list-option {
+
+}
+
+.fi-fo-checkbox-list-option-ctn {
+
+}
+
+.fi-fo-checkbox-list-option-description {
+
+}
+
+.fi-fo-checkbox-list-option-label {
+
+}
+
+.fi-fo-checkbox-list-option-text {
+
+}
+
+.fi-fo-checkbox-list-options {
+
+}
+
+.fi-fo-checkbox-list-search-input-wrp {
+
+}
+
+.fi-fo-code-editor {
+
+}
+
+.fi-fo-color-picker {
+
+}
+
+.fi-fo-color-picker-panel {
+
+}
+
+.fi-fo-color-picker-preview {
+
+}
+
+.fi-fo-date-time-picker {
+
+}
+
+.fi-fo-date-time-picker-calendar {
+
+}
+
+.fi-fo-date-time-picker-calendar-day {
+
+}
+
+.fi-fo-date-time-picker-calendar-day-today {
+
+}
+
+.fi-fo-date-time-picker-calendar-header {
+
+}
+
+.fi-fo-date-time-picker-calendar-header-day {
+
+}
+
+.fi-fo-date-time-picker-display-text-input {
+
+}
+
+.fi-fo-date-time-picker-month-select {
+
+}
+
+.fi-fo-date-time-picker-panel {
+
+}
+
+.fi-fo-date-time-picker-panel-header {
+
+}
+
+.fi-fo-date-time-picker-time-input-separator {
+
+}
+
+.fi-fo-date-time-picker-time-inputs {
+
+}
+
+.fi-fo-date-time-picker-trigger {
+
+}
+
+.fi-fo-date-time-picker-year-input {
+
+}
+
+.fi-fo-field {
+
+}
+
+.fi-fo-field-content {
+
+}
+
+.fi-fo-field-content-col {
+
+}
+
+.fi-fo-field-content-ctn {
+
+}
+
+.fi-fo-field-has-inline-label {
+
+}
+
+.fi-fo-field-label {
+
+}
+
+.fi-fo-field-label-col {
+
+}
+
+.fi-fo-field-label-content {
+
+}
+
+.fi-fo-field-label-ctn {
+
+}
+
+.fi-fo-field-label-required-mark {
+
+}
+
+.fi-fo-field-wrp-error-list {
+
+}
+
+.fi-fo-field-wrp-error-message {
+
+}
+
+.fi-fo-file-upload {
+
+}
+
+.fi-fo-file-upload-avatar {
+
+}
+
+.fi-fo-file-upload-editor {
+
+}
+
+.fi-fo-file-upload-editor-circle-cropper {
+
+}
+
+.fi-fo-file-upload-editor-control-panel {
+
+}
+
+.fi-fo-file-upload-editor-control-panel-footer {
+
+}
+
+.fi-fo-file-upload-editor-control-panel-group {
+
+}
+
+.fi-fo-file-upload-editor-control-panel-group-title {
+
+}
+
+.fi-fo-file-upload-editor-control-panel-main {
+
+}
+
+.fi-fo-file-upload-editor-control-panel-reset-action {
+
+}
+
+.fi-fo-file-upload-editor-crop-only {
+
+}
+
+.fi-fo-file-upload-editor-image {
+
+}
+
+.fi-fo-file-upload-editor-image-ctn {
+
+}
+
+.fi-fo-file-upload-editor-overlay {
+
+}
+
+.fi-fo-file-upload-editor-window {
+
+}
+
+.fi-fo-file-upload-error-message {
+
+}
+
+.fi-fo-file-upload-input-ctn {
+
+}
+
+.fi-fo-hidden {
+
+}
+
+.fi-fo-key-value {
+
+}
+
+.fi-fo-key-value-add-action-ctn {
+
+}
+
+.fi-fo-key-value-table {
+
+}
+
+.fi-fo-key-value-table-ctn {
+
+}
+
+.fi-fo-key-value-table-row-sortable-handle {
+
+}
+
+.fi-fo-key-value-wrp {
+
+}
+
+.fi-fo-markdown-editor {
+
+}
+
+.fi-fo-modal-table-select {
+
+}
+
+.fi-fo-modal-table-select-badges-ctn {
+
+}
+
+.fi-fo-modal-table-select-disabled {
+
+}
+
+.fi-fo-modal-table-select-multiple {
+
+}
+
+.fi-fo-modal-table-select-placeholder {
+
+}
+
+.fi-fo-radio {
+
+}
+
+.fi-fo-radio-label {
+
+}
+
+.fi-fo-radio-label-description {
+
+}
+
+.fi-fo-radio-label-text {
+
+}
+
+.fi-fo-repeater {
+
+}
+
+.fi-fo-repeater-actions {
+
+}
+
+.fi-fo-repeater-add {
+
+}
+
+.fi-fo-repeater-add-between-items {
+
+}
+
+.fi-fo-repeater-add-between-items-ctn {
+
+}
+
+.fi-fo-repeater-item {
+
+}
+
+.fi-fo-repeater-item-content {
+
+}
+
+.fi-fo-repeater-item-has-header {
+
+}
+
+.fi-fo-repeater-item-header {
+
+}
+
+.fi-fo-repeater-item-header-collapse-action {
+
+}
+
+.fi-fo-repeater-item-header-collapsible-actions {
+
+}
+
+.fi-fo-repeater-item-header-end-actions {
+
+}
+
+.fi-fo-repeater-item-header-expand-action {
+
+}
+
+.fi-fo-repeater-item-header-label {
+
+}
+
+.fi-fo-repeater-item-header-start-actions {
+
+}
+
+.fi-fo-repeater-items {
+
+}
+
+.fi-fo-repeater-label-between-items {
+
+}
+
+.fi-fo-repeater-label-between-items-ctn {
+
+}
+
+.fi-fo-repeater-label-between-items-divider-after {
+
+}
+
+.fi-fo-repeater-label-between-items-divider-before {
+
+}
+
+.fi-fo-rich-editor {
+
+}
+
+.fi-fo-rich-editor-content {
+
+}
+
+.fi-fo-rich-editor-custom-block-btn {
+
+}
+
+.fi-fo-rich-editor-custom-block-delete-btn-ctn {
+
+}
+
+.fi-fo-rich-editor-custom-block-edit-btn-ctn {
+
+}
+
+.fi-fo-rich-editor-custom-block-header {
+
+}
+
+.fi-fo-rich-editor-custom-block-heading {
+
+}
+
+.fi-fo-rich-editor-custom-block-preview {
+
+}
+
+.fi-fo-rich-editor-custom-blocks-ctn {
+
+}
+
+.fi-fo-rich-editor-custom-blocks-group-header {
+
+}
+
+.fi-fo-rich-editor-custom-blocks-list {
+
+}
+
+.fi-fo-rich-editor-dropdown-tool {
+
+}
+
+.fi-fo-rich-editor-dropdown-tool-chevron {
+
+}
+
+.fi-fo-rich-editor-dropdown-tool-menu {
+
+}
+
+.fi-fo-rich-editor-dropdown-tool-option {
+
+}
+
+.fi-fo-rich-editor-dropdown-tool-textual {
+
+}
+
+.fi-fo-rich-editor-dropdown-tool-trigger {
+
+}
+
+.fi-fo-rich-editor-file-validation-message {
+
+}
+
+.fi-fo-rich-editor-floating-toolbar {
+
+}
+
+.fi-fo-rich-editor-main {
+
+}
+
+.fi-fo-rich-editor-mention {
+
+}
+
+.fi-fo-rich-editor-merge-tag-btn {
+
+}
+
+.fi-fo-rich-editor-merge-tags-list {
+
+}
+
+.fi-fo-rich-editor-panel {
+
+}
+
+.fi-fo-rich-editor-panel-close-btn-ctn {
+
+}
+
+.fi-fo-rich-editor-panel-header {
+
+}
+
+.fi-fo-rich-editor-panel-heading {
+
+}
+
+.fi-fo-rich-editor-panels {
+
+}
+
+.fi-fo-rich-editor-text-color-select-option {
+
+}
+
+.fi-fo-rich-editor-text-color-select-option-preview {
+
+}
+
+.fi-fo-rich-editor-tool {
+
+}
+
+.fi-fo-rich-editor-tool-label {
+
+}
+
+.fi-fo-rich-editor-tool-with-label {
+
+}
+
+.fi-fo-rich-editor-toolbar {
+
+}
+
+.fi-fo-rich-editor-toolbar-group {
+
+}
+
+.fi-fo-rich-editor-uploading-file {
+
+}
+
+.fi-fo-rich-editor-uploading-file-message {
+
+}
+
+.fi-fo-select {
+
+}
+
+.fi-fo-select-has-inline-prefix {
+
+}
+
+.fi-fo-select-native {
+
+}
+
+.fi-fo-select-wrp {
+
+}
+
+.fi-fo-simple-repeater {
+
+}
+
+.fi-fo-simple-repeater-add {
+
+}
+
+.fi-fo-simple-repeater-item {
+
+}
+
+.fi-fo-simple-repeater-item-actions {
+
+}
+
+.fi-fo-simple-repeater-item-content {
+
+}
+
+.fi-fo-simple-repeater-items {
+
+}
+
+.fi-fo-slider {
+
+}
+
+.fi-fo-slider-has-pips {
+
+}
+
+.fi-fo-slider-has-tooltips {
+
+}
+
+.fi-fo-slider-vertical {
+
+}
+
+.fi-fo-table-repeater {
+
+}
+
+.fi-fo-table-repeater-actions {
+
+}
+
+.fi-fo-table-repeater-add {
+
+}
+
+.fi-fo-table-repeater-empty-header-cell {
+
+}
+
+.fi-fo-table-repeater-header-required-mark {
+
+}
+
+.fi-fo-tags-input {
+
+}
+
+.fi-fo-tags-input-tags-ctn {
+
+}
+
+.fi-fo-tags-input-wrp {
+
+}
+
+.fi-fo-text-input {
+
+}
+
+.fi-fo-textarea {
+
+}
+
+.fi-fo-textarea-wrp {
+
+}
+
+.fi-fo-toggle {
+
+}
+
+.fi-fo-toggle-buttons {
+
+}
+
+.fi-fo-toggle-buttons-btn-ctn {
+
+}
+
+.fi-fo-toggle-buttons-input {
+
+}
+
+.fi-fo-toggle-buttons-wrp {
+
+}
+
+.fi-focused {
+
+}
+
+.fi-font- {
+
+}
+
+.fi-font-black {
+
+}
+
+.fi-font-bold {
+
+}
+
+.fi-font-extrabold {
+
+}
+
+.fi-font-extralight {
+
+}
+
+.fi-font-light {
+
+}
+
+.fi-font-medium {
+
+}
+
+.fi-font-mono {
+
+}
+
+.fi-font-normal {
+
+}
+
+.fi-font-sans {
+
+}
+
+.fi-font-semibold {
+
+}
+
+.fi-font-serif {
+
+}
+
+.fi-font-thin {
+
+}
+
+.fi-force-enabled {
+
+}
+
+.fi-from- {
+
+}
+
+.fi-from-2xl {
+
+}
+
+.fi-from-default {
+
+}
+
+.fi-from-lg {
+
+}
+
+.fi-from-md {
+
+}
+
+.fi-from-sm {
+
+}
+
+.fi-from-xl {
+
+}
+
+.fi-gap-lg {
+
+}
+
+.fi-gap-md {
+
+}
+
+.fi-gap-sm {
+
+}
+
+.fi-global-search {
+
+}
+
+.fi-global-search-ctn {
+
+}
+
+.fi-global-search-field {
+
+}
+
+.fi-global-search-no-results-message {
+
+}
+
+.fi-global-search-result {
+
+}
+
+.fi-global-search-result-actions {
+
+}
+
+.fi-global-search-result-detail {
+
+}
+
+.fi-global-search-result-detail-label {
+
+}
+
+.fi-global-search-result-detail-value {
+
+}
+
+.fi-global-search-result-details {
+
+}
+
+.fi-global-search-result-group {
+
+}
+
+.fi-global-search-result-group-header {
+
+}
+
+.fi-global-search-result-group-results {
+
+}
+
+.fi-global-search-result-has-actions {
+
+}
+
+.fi-global-search-result-heading {
+
+}
+
+.fi-global-search-result-link {
+
+}
+
+.fi-global-search-results {
+
+}
+
+.fi-global-search-results-ctn {
+
+}
+
+.fi-grid {
+
+}
+
+.fi-grid-col {
+
+}
+
+.fi-grid-col-order {
+
+}
+
+.fi-grid-col-span {
+
+}
+
+.fi-grid-col-start {
+
+}
+
+.fi-grid-cols {
+
+}
+
+.fi-grid-ctn {
+
+}
+
+.fi-grid-direction-col {
+
+}
+
+.fi-grouped {
+
+}
+
+.fi-growable {
+
+}
+
+.fi-has-action {
+
+}
+
+.fi-header {
+
+}
+
+.fi-header-actions-ctn {
+
+}
+
+.fi-header-has-breadcrumbs {
+
+}
+
+.fi-header-heading {
+
+}
+
+.fi-header-subheading {
+
+}
+
+.fi-height-full {
+
+}
+
+.fi-hidden {
+
+}
+
+.fi-icon {
+
+}
+
+.fi-icon-btn {
+
+}
+
+.fi-icon-btn-badge-ctn {
+
+}
+
+.fi-in-code {
+
+}
+
+.fi-in-color {
+
+}
+
+.fi-in-color-item {
+
+}
+
+.fi-in-entry {
+
+}
+
+.fi-in-entry-content {
+
+}
+
+.fi-in-entry-content-col {
+
+}
+
+.fi-in-entry-content-ctn {
+
+}
+
+.fi-in-entry-has-inline-label {
+
+}
+
+.fi-in-entry-label {
+
+}
+
+.fi-in-entry-label-col {
+
+}
+
+.fi-in-entry-label-ctn {
+
+}
+
+.fi-in-icon {
+
+}
+
+.fi-in-icon-has-line-breaks {
+
+}
+
+.fi-in-image {
+
+}
+
+.fi-in-image-limited-remaining-text {
+
+}
+
+.fi-in-image-overlap- {
+
+}
+
+.fi-in-image-overlap-1 {
+
+}
+
+.fi-in-image-overlap-2 {
+
+}
+
+.fi-in-image-overlap-3 {
+
+}
+
+.fi-in-image-overlap-4 {
+
+}
+
+.fi-in-image-overlap-5 {
+
+}
+
+.fi-in-image-overlap-6 {
+
+}
+
+.fi-in-image-overlap-7 {
+
+}
+
+.fi-in-image-overlap-8 {
+
+}
+
+.fi-in-image-ring {
+
+}
+
+.fi-in-image-ring- {
+
+}
+
+.fi-in-image-ring-1 {
+
+}
+
+.fi-in-image-ring-2 {
+
+}
+
+.fi-in-image-ring-4 {
+
+}
+
+.fi-in-key-value {
+
+}
+
+.fi-in-placeholder {
+
+}
+
+.fi-in-repeatable {
+
+}
+
+.fi-in-repeatable-item {
+
+}
+
+.fi-in-table-repeatable {
+
+}
+
+.fi-in-table-repeatable-actions {
+
+}
+
+.fi-in-table-repeatable-empty-header-cell {
+
+}
+
+.fi-in-text {
+
+}
+
+.fi-in-text-affix {
+
+}
+
+.fi-in-text-affixed {
+
+}
+
+.fi-in-text-affixed-content {
+
+}
+
+.fi-in-text-has-badges {
+
+}
+
+.fi-in-text-has-line-breaks {
+
+}
+
+.fi-in-text-item {
+
+}
+
+.fi-in-text-list-limited {
+
+}
+
+.fi-in-text-list-limited-message {
+
+}
+
+.fi-inline {
+
+}
+
+.fi-input {
+
+}
+
+.fi-input-has-inline-prefix {
+
+}
+
+.fi-input-has-inline-suffix {
+
+}
+
+.fi-input-wrp {
+
+}
+
+.fi-input-wrp-actions {
+
+}
+
+.fi-input-wrp-content {
+
+}
+
+.fi-input-wrp-content-ctn {
+
+}
+
+.fi-input-wrp-content-ctn-ps {
+
+}
+
+.fi-input-wrp-label {
+
+}
+
+.fi-input-wrp-prefix {
+
+}
+
+.fi-input-wrp-prefix-has-content {
+
+}
+
+.fi-input-wrp-prefix-has-label {
+
+}
+
+.fi-input-wrp-suffix {
+
+}
+
+.fi-input-wrp-suffix-has-label {
+
+}
+
+.fi-interactive {
+
+}
+
+.fi-invalid {
+
+}
+
+.fi-invisible {
+
+}
+
+.fi-labeled-from- {
+
+}
+
+.fi-labeled-from-2xl {
+
+}
+
+.fi-labeled-from-lg {
+
+}
+
+.fi-labeled-from-md {
+
+}
+
+.fi-labeled-from-sm {
+
+}
+
+.fi-labeled-from-xl {
+
+}
+
+.fi-layout {
+
+}
+
+.fi-layout-sidebar-toggle-btn {
+
+}
+
+.fi-layout-sidebar-toggle-btn-ctn {
+
+}
+
+.fi-link {
+
+}
+
+.fi-link-badge-ctn {
+
+}
+
+.fi-loading {
+
+}
+
+.fi-loading-indicator {
+
+}
+
+.fi-loading-section {
+
+}
+
+.fi-logo {
+
+}
+
+.fi-logo-dark {
+
+}
+
+.fi-logo-light {
+
+}
+
+.fi-ltr {
+
+}
+
+.fi-main {
+
+}
+
+.fi-main-ctn {
+
+}
+
+.fi-main-ctn-sidebar-open {
+
+}
+
+.fi-main-sidebar {
+
+}
+
+.fi-modal {
+
+}
+
+.fi-modal-close-btn {
+
+}
+
+.fi-modal-close-overlay {
+
+}
+
+.fi-modal-content {
+
+}
+
+.fi-modal-description {
+
+}
+
+.fi-modal-footer {
+
+}
+
+.fi-modal-footer-actions {
+
+}
+
+.fi-modal-has-sticky-footer {
+
+}
+
+.fi-modal-has-sticky-header {
+
+}
+
+.fi-modal-header {
+
+}
+
+.fi-modal-heading {
+
+}
+
+.fi-modal-icon-bg {
+
+}
+
+.fi-modal-icon-ctn {
+
+}
+
+.fi-modal-id {
+
+}
+
+.fi-modal-open {
+
+}
+
+.fi-modal-slide-over {
+
+}
+
+.fi-modal-trigger {
+
+}
+
+.fi-modal-window {
+
+}
+
+.fi-modal-window-ctn {
+
+}
+
+.fi-modal-window-has-close-btn {
+
+}
+
+.fi-modal-window-has-content {
+
+}
+
+.fi-modal-window-has-footer {
+
+}
+
+.fi-modal-window-has-icon {
+
+}
+
+.fi-no {
+
+}
+
+.fi-no-database {
+
+}
+
+.fi-no-notification {
+
+}
+
+.fi-no-notification-actions {
+
+}
+
+.fi-no-notification-body {
+
+}
+
+.fi-no-notification-close-btn {
+
+}
+
+.fi-no-notification-date {
+
+}
+
+.fi-no-notification-icon {
+
+}
+
+.fi-no-notification-main {
+
+}
+
+.fi-no-notification-read-ctn {
+
+}
+
+.fi-no-notification-text {
+
+}
+
+.fi-no-notification-title {
+
+}
+
+.fi-no-notification-unread-ctn {
+
+}
+
+.fi-not-prose {
+
+}
+
+.fi-not-wrapped {
+
+}
+
+.fi-o-align-center {
+
+}
+
+.fi-o-align-end {
+
+}
+
+.fi-o-align-justify {
+
+}
+
+.fi-o-align-start {
+
+}
+
+.fi-o-arrows-move {
+
+}
+
+.fi-o-clear-formatting {
+
+}
+
+.fi-o-code {
+
+}
+
+.fi-o-code-block {
+
+}
+
+.fi-o-columns {
+
+}
+
+.fi-o-columns-delete {
+
+}
+
+.fi-o-crop {
+
+}
+
+.fi-o-details {
+
+}
+
+.fi-o-flip-horizontal {
+
+}
+
+.fi-o-flip-vertical {
+
+}
+
+.fi-o-h1 {
+
+}
+
+.fi-o-h2 {
+
+}
+
+.fi-o-h3 {
+
+}
+
+.fi-o-h4 {
+
+}
+
+.fi-o-h5 {
+
+}
+
+.fi-o-h6 {
+
+}
+
+.fi-o-heading {
+
+}
+
+.fi-o-highlight {
+
+}
+
+.fi-o-lead {
+
+}
+
+.fi-o-merge-tag {
+
+}
+
+.fi-o-paragraph {
+
+}
+
+.fi-o-small {
+
+}
+
+.fi-o-subscript {
+
+}
+
+.fi-o-superscript {
+
+}
+
+.fi-o-table {
+
+}
+
+.fi-o-table-add-column-after {
+
+}
+
+.fi-o-table-add-column-before {
+
+}
+
+.fi-o-table-add-row-after {
+
+}
+
+.fi-o-table-add-row-before {
+
+}
+
+.fi-o-table-delete {
+
+}
+
+.fi-o-table-delete-column {
+
+}
+
+.fi-o-table-delete-row {
+
+}
+
+.fi-o-table-merge-cells {
+
+}
+
+.fi-o-table-split-cell {
+
+}
+
+.fi-o-table-toggle-header-cell {
+
+}
+
+.fi-o-table-toggle-header-row {
+
+}
+
+.fi-one-time-code-input {
+
+}
+
+.fi-one-time-code-input-ctn {
+
+}
+
+.fi-one-time-code-input-digit-field {
+
+}
+
+.fi-opacity-0 {
+
+}
+
+.fi-open {
+
+}
+
+.fi-outlined {
+
+}
+
+.fi-page {
+
+}
+
+.fi-page-content {
+
+}
+
+.fi-page-has-sub-navigation {
+
+}
+
+.fi-page-has-sub-navigation- {
+
+}
+
+.fi-page-has-sub-navigation-end {
+
+}
+
+.fi-page-has-sub-navigation-start {
+
+}
+
+.fi-page-header-main-ctn {
+
+}
+
+.fi-page-main {
+
+}
+
+.fi-page-main-sub-navigation-mobile-menu-render-hook-ctn {
+
+}
+
+.fi-page-sub-navigation-dropdown {
+
+}
+
+.fi-page-sub-navigation-sidebar {
+
+}
+
+.fi-page-sub-navigation-sidebar-ctn {
+
+}
+
+.fi-page-sub-navigation-tabs {
+
+}
+
+.fi-pagination {
+
+}
+
+.fi-pagination-item {
+
+}
+
+.fi-pagination-item-btn {
+
+}
+
+.fi-pagination-item-icon {
+
+}
+
+.fi-pagination-item-label {
+
+}
+
+.fi-pagination-items {
+
+}
+
+.fi-pagination-next-btn {
+
+}
+
+.fi-pagination-overview {
+
+}
+
+.fi-pagination-previous-btn {
+
+}
+
+.fi-pagination-records-per-page-select {
+
+}
+
+.fi-pagination-records-per-page-select-ctn {
+
+}
+
+.fi-panel- {
+
+}
+
+.fi-processing {
+
+}
+
+.fi-prose {
+
+}
+
+.fi-radio-input {
+
+}
+
+.fi-reorderable {
+
+}
+
+.fi-resource- {
+
+}
+
+.fi-resource-create-record-page {
+
+}
+
+.fi-resource-edit-record-page {
+
+}
+
+.fi-resource-list-records-page {
+
+}
+
+.fi-resource-manage-related-records-page {
+
+}
+
+.fi-resource-record- {
+
+}
+
+.fi-resource-relation-manager {
+
+}
+
+.fi-resource-view-record-page {
+
+}
+
+.fi-revealable {
+
+}
+
+.fi-rtl {
+
+}
+
+.fi-sc {
+
+}
+
+.fi-sc-action {
+
+}
+
+.fi-sc-actions {
+
+}
+
+.fi-sc-actions-label {
+
+}
+
+.fi-sc-actions-label-ctn {
+
+}
+
+.fi-sc-callout {
+
+}
+
+.fi-sc-component {
+
+}
+
+.fi-sc-dense {
+
+}
+
+.fi-sc-empty-state {
+
+}
+
+.fi-sc-fieldset {
+
+}
+
+.fi-sc-flex {
+
+}
+
+.fi-sc-form {
+
+}
+
+.fi-sc-fused-group {
+
+}
+
+.fi-sc-has-gap {
+
+}
+
+.fi-sc-icon {
+
+}
+
+.fi-sc-image {
+
+}
+
+.fi-sc-section {
+
+}
+
+.fi-sc-section-label {
+
+}
+
+.fi-sc-section-label-ctn {
+
+}
+
+.fi-sc-tabs {
+
+}
+
+.fi-sc-tabs-tab {
+
+}
+
+.fi-sc-text {
+
+}
+
+.fi-sc-unordered-list {
+
+}
+
+.fi-sc-wizard {
+
+}
+
+.fi-sc-wizard-footer {
+
+}
+
+.fi-sc-wizard-header {
+
+}
+
+.fi-sc-wizard-header-hidden {
+
+}
+
+.fi-sc-wizard-header-step {
+
+}
+
+.fi-sc-wizard-header-step-btn {
+
+}
+
+.fi-sc-wizard-header-step-description {
+
+}
+
+.fi-sc-wizard-header-step-icon-ctn {
+
+}
+
+.fi-sc-wizard-header-step-label {
+
+}
+
+.fi-sc-wizard-header-step-number {
+
+}
+
+.fi-sc-wizard-header-step-separator {
+
+}
+
+.fi-sc-wizard-header-step-text {
+
+}
+
+.fi-sc-wizard-step {
+
+}
+
+.fi-scrollable {
+
+}
+
+.fi-secondary {
+
+}
+
+.fi-section {
+
+}
+
+.fi-section-collapse-btn {
+
+}
+
+.fi-section-content {
+
+}
+
+.fi-section-content-ctn {
+
+}
+
+.fi-section-footer {
+
+}
+
+.fi-section-has-content-before {
+
+}
+
+.fi-section-has-header {
+
+}
+
+.fi-section-header {
+
+}
+
+.fi-section-header-after-ctn {
+
+}
+
+.fi-section-header-description {
+
+}
+
+.fi-section-header-heading {
+
+}
+
+.fi-section-header-text-ctn {
+
+}
+
+.fi-section-not-contained {
+
+}
+
+.fi-select-input {
+
+}
+
+.fi-select-input-badge-remove {
+
+}
+
+.fi-select-input-btn {
+
+}
+
+.fi-select-input-ctn {
+
+}
+
+.fi-select-input-ctn-clearable {
+
+}
+
+.fi-select-input-ctn-option-labels-not-wrapped {
+
+}
+
+.fi-select-input-dropdown- {
+
+}
+
+.fi-select-input-has-inline-prefix {
+
+}
+
+.fi-select-input-message {
+
+}
+
+.fi-select-input-option {
+
+}
+
+.fi-select-input-option- {
+
+}
+
+.fi-select-input-option-group {
+
+}
+
+.fi-select-input-options-ctn {
+
+}
+
+.fi-select-input-placeholder {
+
+}
+
+.fi-select-input-search-ctn {
+
+}
+
+.fi-select-input-value-badges-ctn {
+
+}
+
+.fi-select-input-value-ctn {
+
+}
+
+.fi-select-input-value-label {
+
+}
+
+.fi-select-input-value-remove-btn {
+
+}
+
+.fi-selected {
+
+}
+
+.fi-sidebar {
+
+}
+
+.fi-sidebar-close-collapse-sidebar-btn {
+
+}
+
+.fi-sidebar-close-overlay {
+
+}
+
+.fi-sidebar-close-sidebar-btn {
+
+}
+
+.fi-sidebar-database-notifications-btn {
+
+}
+
+.fi-sidebar-database-notifications-btn-badge-ctn {
+
+}
+
+.fi-sidebar-database-notifications-btn-label {
+
+}
+
+.fi-sidebar-footer {
+
+}
+
+.fi-sidebar-group {
+
+}
+
+.fi-sidebar-group-btn {
+
+}
+
+.fi-sidebar-group-collapse-btn {
+
+}
+
+.fi-sidebar-group-dropdown-trigger-btn {
+
+}
+
+.fi-sidebar-group-items {
+
+}
+
+.fi-sidebar-group-label {
+
+}
+
+.fi-sidebar-header {
+
+}
+
+.fi-sidebar-header-ctn {
+
+}
+
+.fi-sidebar-header-logo-ctn {
+
+}
+
+.fi-sidebar-item {
+
+}
+
+.fi-sidebar-item-badge-ctn {
+
+}
+
+.fi-sidebar-item-btn {
+
+}
+
+.fi-sidebar-item-grouped-border {
+
+}
+
+.fi-sidebar-item-grouped-border-part {
+
+}
+
+.fi-sidebar-item-grouped-border-part-not-first {
+
+}
+
+.fi-sidebar-item-grouped-border-part-not-last {
+
+}
+
+.fi-sidebar-item-has-active-child-items {
+
+}
+
+.fi-sidebar-item-has-url {
+
+}
+
+.fi-sidebar-item-icon {
+
+}
+
+.fi-sidebar-item-label {
+
+}
+
+.fi-sidebar-nav {
+
+}
+
+.fi-sidebar-nav-groups {
+
+}
+
+.fi-sidebar-open {
+
+}
+
+.fi-sidebar-open-collapse-sidebar-btn {
+
+}
+
+.fi-sidebar-open-sidebar-btn {
+
+}
+
+.fi-sidebar-sub-group-items {
+
+}
+
+.fi-simple {
+
+}
+
+.fi-simple-header {
+
+}
+
+.fi-simple-header-heading {
+
+}
+
+.fi-simple-header-subheading {
+
+}
+
+.fi-simple-layout {
+
+}
+
+.fi-simple-layout-header {
+
+}
+
+.fi-simple-main {
+
+}
+
+.fi-simple-main-ctn {
+
+}
+
+.fi-simple-page {
+
+}
+
+.fi-simple-page-content {
+
+}
+
+.fi-simple-user-menu-ctn {
+
+}
+
+.fi-size- {
+
+}
+
+.fi-size-2xl {
+
+}
+
+.fi-size-base {
+
+}
+
+.fi-size-lg {
+
+}
+
+.fi-size-md {
+
+}
+
+.fi-size-sm {
+
+}
+
+.fi-size-xl {
+
+}
+
+.fi-size-xs {
+
+}
+
+.fi-sortable-ghost {
+
+}
+
+.fi-sr-only {
+
+}
+
+.fi-stacked {
+
+}
+
+.fi-status- {
+
+}
+
+.fi-sticky {
+
+}
+
+.fi-striped {
+
+}
+
+.fi-ta {
+
+}
+
+.fi-ta-actions {
+
+}
+
+.fi-ta-actions-before-columns-position {
+
+}
+
+.fi-ta-actions-header-cell {
+
+}
+
+.fi-ta-cell {
+
+}
+
+.fi-ta-cell- {
+
+}
+
+.fi-ta-cell-content {
+
+}
+
+.fi-ta-cell-label {
+
+}
+
+.fi-ta-checkbox {
+
+}
+
+.fi-ta-col {
+
+}
+
+.fi-ta-col-has-column-url {
+
+}
+
+.fi-ta-col-manager {
+
+}
+
+.fi-ta-col-manager-actions-ctn {
+
+}
+
+.fi-ta-col-manager-dropdown {
+
+}
+
+.fi-ta-col-manager-group {
+
+}
+
+.fi-ta-col-manager-group-items {
+
+}
+
+.fi-ta-col-manager-header {
+
+}
+
+.fi-ta-col-manager-heading {
+
+}
+
+.fi-ta-col-manager-item {
+
+}
+
+.fi-ta-col-manager-items {
+
+}
+
+.fi-ta-col-manager-label {
+
+}
+
+.fi-ta-col-manager-modal {
+
+}
+
+.fi-ta-col-manager-reorder-handle {
+
+}
+
+.fi-ta-color {
+
+}
+
+.fi-ta-color-item {
+
+}
+
+.fi-ta-content {
+
+}
+
+.fi-ta-content-ctn {
+
+}
+
+.fi-ta-content-grid {
+
+}
+
+.fi-ta-content-grouped {
+
+}
+
+.fi-ta-content-header {
+
+}
+
+.fi-ta-ctn {
+
+}
+
+.fi-ta-ctn-with-content-layout {
+
+}
+
+.fi-ta-ctn-with-footer {
+
+}
+
+.fi-ta-ctn-with-header {
+
+}
+
+.fi-ta-empty-header-cell {
+
+}
+
+.fi-ta-empty-state {
+
+}
+
+.fi-ta-empty-state-content {
+
+}
+
+.fi-ta-empty-state-description {
+
+}
+
+.fi-ta-empty-state-heading {
+
+}
+
+.fi-ta-empty-state-icon-bg {
+
+}
+
+.fi-ta-filter-indicators {
+
+}
+
+.fi-ta-filter-indicators-badges-ctn {
+
+}
+
+.fi-ta-filter-indicators-label {
+
+}
+
+.fi-ta-filters {
+
+}
+
+.fi-ta-filters-above-content-ctn {
+
+}
+
+.fi-ta-filters-actions-ctn {
+
+}
+
+.fi-ta-filters-after-content {
+
+}
+
+.fi-ta-filters-after-content-ctn {
+
+}
+
+.fi-ta-filters-before-content {
+
+}
+
+.fi-ta-filters-before-content-ctn {
+
+}
+
+.fi-ta-filters-below-content {
+
+}
+
+.fi-ta-filters-dropdown {
+
+}
+
+.fi-ta-filters-header {
+
+}
+
+.fi-ta-filters-heading {
+
+}
+
+.fi-ta-filters-modal {
+
+}
+
+.fi-ta-filters-trigger-action-ctn {
+
+}
+
+.fi-ta-grid {
+
+}
+
+.fi-ta-group-checkbox {
+
+}
+
+.fi-ta-group-description {
+
+}
+
+.fi-ta-group-header {
+
+}
+
+.fi-ta-group-header-cell {
+
+}
+
+.fi-ta-group-header-row {
+
+}
+
+.fi-ta-group-heading {
+
+}
+
+.fi-ta-group-selection-cell {
+
+}
+
+.fi-ta-grouping-settings {
+
+}
+
+.fi-ta-grouping-settings-fields {
+
+}
+
+.fi-ta-header {
+
+}
+
+.fi-ta-header-adaptive-actions-position {
+
+}
+
+.fi-ta-header-cell {
+
+}
+
+.fi-ta-header-cell- {
+
+}
+
+.fi-ta-header-cell-sort-btn {
+
+}
+
+.fi-ta-header-cell-sorted {
+
+}
+
+.fi-ta-header-cell-tooltip {
+
+}
+
+.fi-ta-header-ctn {
+
+}
+
+.fi-ta-header-description {
+
+}
+
+.fi-ta-header-group-cell {
+
+}
+
+.fi-ta-header-heading {
+
+}
+
+.fi-ta-header-toolbar {
+
+}
+
+.fi-ta-icon {
+
+}
+
+.fi-ta-icon-count-summary {
+
+}
+
+.fi-ta-icon-count-summary-label {
+
+}
+
+.fi-ta-icon-has-line-breaks {
+
+}
+
+.fi-ta-image {
+
+}
+
+.fi-ta-image-limited-remaining-text {
+
+}
+
+.fi-ta-image-overlap- {
+
+}
+
+.fi-ta-image-overlap-1 {
+
+}
+
+.fi-ta-image-overlap-2 {
+
+}
+
+.fi-ta-image-overlap-3 {
+
+}
+
+.fi-ta-image-overlap-4 {
+
+}
+
+.fi-ta-image-overlap-5 {
+
+}
+
+.fi-ta-image-overlap-6 {
+
+}
+
+.fi-ta-image-overlap-7 {
+
+}
+
+.fi-ta-image-overlap-8 {
+
+}
+
+.fi-ta-image-ring {
+
+}
+
+.fi-ta-image-ring- {
+
+}
+
+.fi-ta-image-ring-1 {
+
+}
+
+.fi-ta-image-ring-2 {
+
+}
+
+.fi-ta-image-ring-4 {
+
+}
+
+.fi-ta-individual-search-cell {
+
+}
+
+.fi-ta-individual-search-cell- {
+
+}
+
+.fi-ta-main {
+
+}
+
+.fi-ta-page-checkbox {
+
+}
+
+.fi-ta-panel {
+
+}
+
+.fi-ta-placeholder {
+
+}
+
+.fi-ta-range-summary {
+
+}
+
+.fi-ta-range-summary-label {
+
+}
+
+.fi-ta-record {
+
+}
+
+.fi-ta-record-checkbox {
+
+}
+
+.fi-ta-record-collapse-btn {
+
+}
+
+.fi-ta-record-collapsed {
+
+}
+
+.fi-ta-record-content {
+
+}
+
+.fi-ta-record-content-ctn {
+
+}
+
+.fi-ta-record-with-content-prefix {
+
+}
+
+.fi-ta-record-with-content-suffix {
+
+}
+
+.fi-ta-reorder-handle {
+
+}
+
+.fi-ta-reorder-indicator {
+
+}
+
+.fi-ta-reordering {
+
+}
+
+.fi-ta-row {
+
+}
+
+.fi-ta-row-not-reorderable {
+
+}
+
+.fi-ta-search-field {
+
+}
+
+.fi-ta-select {
+
+}
+
+.fi-ta-selection-cell {
+
+}
+
+.fi-ta-selection-indicator {
+
+}
+
+.fi-ta-selection-indicator-actions-ctn {
+
+}
+
+.fi-ta-sorting-settings {
+
+}
+
+.fi-ta-split {
+
+}
+
+.fi-ta-stack {
+
+}
+
+.fi-ta-summary-header-cell {
+
+}
+
+.fi-ta-summary-header-row {
+
+}
+
+.fi-ta-summary-row {
+
+}
+
+.fi-ta-summary-row-heading-cell {
+
+}
+
+.fi-ta-table {
+
+}
+
+.fi-ta-table-head-groups-row {
+
+}
+
+.fi-ta-table-loading-ctn {
+
+}
+
+.fi-ta-table-reordering {
+
+}
+
+.fi-ta-table-stacked-header-cell {
+
+}
+
+.fi-ta-table-stacked-header-row {
+
+}
+
+.fi-ta-table-stacked-on-mobile {
+
+}
+
+.fi-ta-table-stacked-sorting {
+
+}
+
+.fi-ta-text {
+
+}
+
+.fi-ta-text-description {
+
+}
+
+.fi-ta-text-has-badges {
+
+}
+
+.fi-ta-text-has-descriptions {
+
+}
+
+.fi-ta-text-has-line-breaks {
+
+}
+
+.fi-ta-text-input {
+
+}
+
+.fi-ta-text-item {
+
+}
+
+.fi-ta-text-list-limited {
+
+}
+
+.fi-ta-text-list-limited-message {
+
+}
+
+.fi-ta-text-summary {
+
+}
+
+.fi-ta-text-summary-label {
+
+}
+
+.fi-ta-toggle {
+
+}
+
+.fi-ta-values-summary {
+
+}
+
+.fi-ta-values-summary-label {
+
+}
+
+.fi-tabs {
+
+}
+
+.fi-tabs-item {
+
+}
+
+.fi-tabs-item-badge-placeholder {
+
+}
+
+.fi-tabs-item-label {
+
+}
+
+.fi-tenant-avatar {
+
+}
+
+.fi-tenant-menu {
+
+}
+
+.fi-tenant-menu-trigger {
+
+}
+
+.fi-tenant-menu-trigger-current-tenant-label {
+
+}
+
+.fi-tenant-menu-trigger-tenant-name {
+
+}
+
+.fi-tenant-menu-trigger-text {
+
+}
+
+.fi-text-color- {
+
+}
+
+.fi-text-color-0 {
+
+}
+
+.fi-text-color-100 {
+
+}
+
+.fi-text-color-200 {
+
+}
+
+.fi-text-color-300 {
+
+}
+
+.fi-text-color-400 {
+
+}
+
+.fi-text-color-50 {
+
+}
+
+.fi-text-color-500 {
+
+}
+
+.fi-text-color-600 {
+
+}
+
+.fi-text-color-700 {
+
+}
+
+.fi-text-color-800 {
+
+}
+
+.fi-text-color-900 {
+
+}
+
+.fi-text-color-950 {
+
+}
+
+.fi-theme-switcher {
+
+}
+
+.fi-theme-switcher-btn {
+
+}
+
+.fi-toggle {
+
+}
+
+.fi-toggle-off {
+
+}
+
+.fi-toggle-on {
+
+}
+
+.fi-topbar {
+
+}
+
+.fi-topbar-close-collapse-sidebar-btn {
+
+}
+
+.fi-topbar-close-sidebar-btn {
+
+}
+
+.fi-topbar-collapse-sidebar-btn-ctn {
+
+}
+
+.fi-topbar-ctn {
+
+}
+
+.fi-topbar-database-notifications-btn {
+
+}
+
+.fi-topbar-end {
+
+}
+
+.fi-topbar-group-toggle-icon {
+
+}
+
+.fi-topbar-item {
+
+}
+
+.fi-topbar-item-btn {
+
+}
+
+.fi-topbar-item-icon {
+
+}
+
+.fi-topbar-item-label {
+
+}
+
+.fi-topbar-nav-groups {
+
+}
+
+.fi-topbar-open-collapse-sidebar-btn {
+
+}
+
+.fi-topbar-open-sidebar-btn {
+
+}
+
+.fi-topbar-start {
+
+}
+
+.fi-transition-enter {
+
+}
+
+.fi-transition-enter-end {
+
+}
+
+.fi-transition-enter-start {
+
+}
+
+.fi-transition-leave {
+
+}
+
+.fi-transition-leave-end {
+
+}
+
+.fi-transition-leave-start {
+
+}
+
+.fi-truncated {
+
+}
+
+.fi-user-avatar {
+
+}
+
+.fi-user-menu {
+
+}
+
+.fi-user-menu-trigger {
+
+}
+
+.fi-user-menu-trigger-text {
+
+}
+
+.fi-valid {
+
+}
+
+.fi-vertical {
+
+}
+
+.fi-vertical-align- {
+
+}
+
+.fi-vertical-align-center {
+
+}
+
+.fi-vertical-align-end {
+
+}
+
+.fi-vertical-align-start {
+
+}
+
+.fi-visible {
+
+}
+
+.fi-wi {
+
+}
+
+.fi-wi-chart {
+
+}
+
+.fi-wi-chart-bg-color {
+
+}
+
+.fi-wi-chart-border-color {
+
+}
+
+.fi-wi-chart-canvas-ctn {
+
+}
+
+.fi-wi-chart-canvas-ctn-no-aspect-ratio {
+
+}
+
+.fi-wi-chart-filter {
+
+}
+
+.fi-wi-chart-filter-content {
+
+}
+
+.fi-wi-chart-filter-content-actions-ctn {
+
+}
+
+.fi-wi-chart-grid-color {
+
+}
+
+.fi-wi-chart-text-color {
+
+}
+
+.fi-wi-stats-overview {
+
+}
+
+.fi-wi-stats-overview-stat {
+
+}
+
+.fi-wi-stats-overview-stat-chart {
+
+}
+
+.fi-wi-stats-overview-stat-chart-bg-color {
+
+}
+
+.fi-wi-stats-overview-stat-chart-border-color {
+
+}
+
+.fi-wi-stats-overview-stat-content {
+
+}
+
+.fi-wi-stats-overview-stat-description {
+
+}
+
+.fi-wi-stats-overview-stat-label {
+
+}
+
+.fi-wi-stats-overview-stat-label-ctn {
+
+}
+
+.fi-wi-stats-overview-stat-value {
+
+}
+
+.fi-wi-table {
+
+}
+
+.fi-wi-widget {
+
+}
+
+.fi-width- {
+
+}
+
+.fi-width-2xl {
+
+}
+
+.fi-width-3xl {
+
+}
+
+.fi-width-4xl {
+
+}
+
+.fi-width-5xl {
+
+}
+
+.fi-width-6xl {
+
+}
+
+.fi-width-7xl {
+
+}
+
+.fi-width-fit {
+
+}
+
+.fi-width-full {
+
+}
+
+.fi-width-lg {
+
+}
+
+.fi-width-max {
+
+}
+
+.fi-width-md {
+
+}
+
+.fi-width-min {
+
+}
+
+.fi-width-prose {
+
+}
+
+.fi-width-screen {
+
+}
+
+.fi-width-screen-2xl {
+
+}
+
+.fi-width-screen-lg {
+
+}
+
+.fi-width-screen-md {
+
+}
+
+.fi-width-screen-sm {
+
+}
+
+.fi-width-screen-xl {
+
+}
+
+.fi-width-sm {
+
+}
+
+.fi-width-xl {
+
+}
+
+.fi-width-xs {
+
+}
+
+.fi-wrapped {
+
+}
