@@ -252,11 +252,14 @@ trait HasGlobalSearch
     }
 
     /**
-     * @return Builder<TModel>
+     * @return Builder<Model>
      */
     public static function getGlobalSearchEloquentQuery(): Builder
     {
-        return static::getEloquentQuery();
+        /** @var Builder<Model> $query */
+        $query = static::getEloquentQuery();
+
+        return $query;
     }
 
     public static function getGlobalSearchSort(): ?int

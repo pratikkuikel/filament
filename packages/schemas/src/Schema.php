@@ -88,17 +88,17 @@ class Schema extends ViewComponent implements HasEmbeddedView
      */
     protected function resolveDefaultClosureDependencyForEvaluationByType(string $parameterType): array
     {
+        if ($parameterType === static::class || $parameterType === self::class) {
+            return [$this];
+        }
+
         $record = is_a($parameterType, Model::class, allow_string: true) ? $this->getRecord() : null;
 
         if (! ($record instanceof Model)) {
-            return match ($parameterType) {
-                static::class, self::class => [$this],
-                default => parent::resolveDefaultClosureDependencyForEvaluationByType($parameterType),
-            };
+            return parent::resolveDefaultClosureDependencyForEvaluationByType($parameterType);
         }
 
         return match ($parameterType) {
-            static::class, self::class => [$this],
             Model::class, $record::class => [$record],
             default => parent::resolveDefaultClosureDependencyForEvaluationByType($parameterType),
         };
